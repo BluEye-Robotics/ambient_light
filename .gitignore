@@ -1,0 +1,11 @@
+*.o
+*.swp
+*.swo
+*.log
+massif.*
+*.asv
+*~
+*.jpg
+*.png
+build-*
+*.mat
